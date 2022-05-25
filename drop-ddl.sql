@@ -1,0 +1,4 @@
+USE filedb;
+DROP TABLE Objects;
+DROP PROCEDURE AddObject;
+DROP PROCEDURE MoveObject;
